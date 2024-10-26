@@ -1,1 +1,1 @@
-Añadiendo algo de texto
+Añadiendo algo de texto para la rama conflicto
